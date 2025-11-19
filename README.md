@@ -1,6 +1,9 @@
 
 ![logo](https://github.com/MD-Aftab-Hossain/MD-Aftab-Hossain/blob/main/mainbanner.png)
 # Hi 👋, I'm Aftab  
+<div align="center">
+  <strong>Full Stack Web Engineer 👋 | Expert in JavaScript, React.js, Next.js, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB</strong>
+</div>
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
