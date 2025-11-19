@@ -1,4 +1,4 @@
-# Hi 👋, I'm <YOUR NAME>  
+# Hi 👋, I'm Aftab  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
 ---
